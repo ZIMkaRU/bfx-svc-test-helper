@@ -19,7 +19,7 @@
   "dependencies": {
     "async": "^2.6.1",
     "bfx-svc-boot-js": "git+https://github.com/bitfinexcom/bfx-svc-boot-js.git",
-    "grenache-grape": "git+https://github.com/bitfinexcom/grenache-grape.git",
+    "grenache-grape": "git+https://github.com/mafintosh/grenache-grape.git#patch-3",
     "grenache-nodejs-http": "git+https://github.com/bitfinexcom/grenache-nodejs-http.git",
     "grenache-nodejs-link": "git+https://github.com/bitfinexcom/grenache-nodejs-link.git",
     "raw-body": "2.4.1"
